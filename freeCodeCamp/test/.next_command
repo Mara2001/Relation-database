@@ -223,3 +223,4 @@ ls --color=auto
 mv CodeAlly.svg client/assets/icons/
 __vsc_prompt_cmd_original
 find
+mv CodeRoad.svg client/assets/icons/

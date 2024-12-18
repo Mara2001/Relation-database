@@ -230,3 +230,4 @@ mkdir client/assets/fonts
 lsls
 ls --color=auto
 touch client/assets/fonts/roboto-bold.woff
+touch client/assets/fonts/roboto-light.woff

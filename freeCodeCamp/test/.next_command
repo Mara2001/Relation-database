@@ -156,3 +156,5 @@ mv roboto.font roboto.woff
 ls --color=auto
 __vsc_prompt_cmd_original
 mv lato.font lato.ttf
+vm menlo.font menlo.otf
+mv menlo.font menlo.otf

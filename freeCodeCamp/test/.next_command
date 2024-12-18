@@ -180,3 +180,9 @@ find
 find client/
 find --help
 find -name index.html
+find styles.css
+ls --color=auto
+tree
+find
+find styles.css
+find -name styles.css

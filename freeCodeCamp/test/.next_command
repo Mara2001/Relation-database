@@ -255,3 +255,4 @@ echo for the freeCodeCamp bash lessons >> README.md
 more README.md
 find
 cd ..
+ls --color=auto

@@ -256,3 +256,4 @@ more README.md
 find
 cd ..
 ls --color=auto
+mv website/ website-boilerplate

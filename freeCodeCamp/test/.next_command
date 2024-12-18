@@ -74,3 +74,4 @@ cd ..
 l
 ls --color=auto
 more package.json
+clear
